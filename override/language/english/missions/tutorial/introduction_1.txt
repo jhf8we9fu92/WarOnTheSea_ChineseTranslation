@@ -1,0 +1,21 @@
+﻿Image={"path":"interface/tutorial/secondToolbar.png","pos":{"x":260.0,"y":-67.0}}
+Image={"path":"interface/tutorial/cameraDir.png","pos":{"x":224.0,"y":-122.0}}
+Image=
+<b>相机控制和望远镜视角</b>
+练习移动相机。
+平移：<color=#caa809>鼠标右键</color> 拖动或者方向键 <color=#caa809>左</color>，<color=#caa809>右</color>，<color=#caa809>上</color>，<color=#caa809>下</color>
+缩放：使用 <KEY:MouseWheel> 或者 <KEY:ZoomIn> 和 <KEY:ZoomOut>.
+切换水下视角：按 <color=#caa809>鼠标中键</color> 来回切换。
+按住方向键 <color=#caa809>下</color> 平移相机观看船底。
+
+使用望远镜。
+按 <KEY:Binoculars> 进入（或离开）望远镜视角。
+在双筒望远镜视图中使用的平移、缩放和切换水下命令移动视角（同上）。
+切换到水下会取消望远镜视角。
+
+切换双筒望远镜和水下的按钮可以在小地图下方的辅助工具栏上找到。
+
+屏幕顶部中间显示视角正对的绝对方位（方向）。
+0=北，90=东，180=南，270=西。
+
+准备好后，点击下一个箭头继续。

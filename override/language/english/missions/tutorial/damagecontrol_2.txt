@@ -1,0 +1,21 @@
+﻿Image={"path":"interface/tutorial/dcHull.png","pos":{"x":0.0,"y":55.0}}
+Image={"path":"interface/tutorial/dcDeck.png","pos":{"x":0.0,"y":-96.0}}
+Image=
+<b>船体 & 甲板视图</b>
+2) 船体视图（上）
+网格显示船体内的水密隔舱，图标指示隔舱是否包含特定设施。
+
+
+
+
+
+
+3) 甲板视图（下）
+图标显示船上存在的各种设施，甲板上及甲板上方的设施不会进水。
+
+
+
+
+
+
+<KEY:LeftMouse> 任一隔舱或设施将分配/移除损管小组。

@@ -1,0 +1,1 @@
+﻿{"unitName":"索莫斯","weaponDescriptions":["40mm L/60 博福斯","20mm L/70 厄利孔"],"namesInClass":["索莫斯","沃灵顿","桑普森","戴维斯","朱厄特"],"instancesInClass":["somers","warrington","sampson","davis","jouett"]}

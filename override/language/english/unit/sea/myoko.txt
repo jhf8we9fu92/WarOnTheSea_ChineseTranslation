@@ -1,0 +1,1 @@
+﻿{"unitName":"妙高","weaponDescriptions":["九六式 25mm 高射机炮","九三式 13.2mm 机枪"],"namesInClass":["妙高","那智","羽黑","足柄"],"instancesInClass":["myoko","nachi","haguro","ashigara"]}

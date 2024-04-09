@@ -1,0 +1,1 @@
+﻿{"unitName":"球磨","weaponDescriptions":["九六式 25mm 高射机炮","九三式 13.2mm 机枪"],"namesInClass":["球磨","多摩","北上","大井","木曾"],"instancesInClass":["kuma","tama","kitakami","oi","kiso"]}

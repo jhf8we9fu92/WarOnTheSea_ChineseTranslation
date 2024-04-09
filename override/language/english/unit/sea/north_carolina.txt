@@ -1,0 +1,1 @@
+﻿{"unitName":"北卡罗莱纳","weaponDescriptions":["40mm L/60 博福斯","20mm L/70 厄利孔"],"namesInClass":["北卡罗莱纳","华盛顿"],"instancesInClass":["north carolina","washington"]}

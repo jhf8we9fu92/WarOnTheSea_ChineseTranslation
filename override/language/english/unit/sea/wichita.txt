@@ -1,0 +1,1 @@
+﻿{"unitName":"威奇塔","weaponDescriptions":["40mm L/60 博福斯","20mm L/70 厄利孔"],"namesInClass":["威奇塔"],"instancesInClass":["wichita"]}

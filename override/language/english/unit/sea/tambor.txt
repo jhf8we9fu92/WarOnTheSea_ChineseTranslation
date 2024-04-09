@@ -1,0 +1,1 @@
+﻿{"unitName":"河豚","weaponDescriptions":["40mm L/60 博福斯","20mm L/70 厄利孔"],"namesInClass":["河豚","黑鱼","长尾鲨","特里同","鳟鱼","鲔鱼","雀鳝","虎鲸","灰背鱼","茴鱼","鼠尾鳕","白杨鱼"],"instancesInClass":["tambor","tautog","thresher","triton","trout","tuna","gar","grampus","grayback","grayling","grenadier","gudgeon"]}

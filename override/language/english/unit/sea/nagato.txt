@@ -1,0 +1,1 @@
+﻿{"unitName":"长门","weaponDescriptions":["九六式 25mm 高射机炮","九三式 13.2mm 机枪"],"namesInClass":["长门","陆奥"],"instancesInClass":["nagato","mutsu"]}

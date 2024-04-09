@@ -1,0 +1,1 @@
+﻿{"unitName":"最上","weaponDescriptions":["九六式 25mm 高射机炮","九三式 13.2mm 机枪"],"namesInClass":["最上","三隈","铃谷","熊野"],"instancesInClass":["mogami","mikuma","suzuya","kumano"]}

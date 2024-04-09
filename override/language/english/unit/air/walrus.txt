@@ -1,0 +1,1 @@
+﻿{"unitName":"海象","weaponDescriptions":["Guns|2x 7.7mm 维克斯K型机枪"],"payloadDisplayNames":["无"],"payloadIndexes":["-1"],"endurance":[1]}

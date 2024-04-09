@@ -1,0 +1,12 @@
+﻿Image=
+Image=
+Image=
+<b>控制飞机</b>
+飞机控制与舰船相同，只是它们可以改变高度（同样，潜艇可以改变深度）。
+按 <KEY:MoveUp> 和 <KEY:MoveDown> 改变高度。
+按 <KEY:IncreaseSpeed>, <KEY:DecreaseSpeed>, <KEY:LeftRudder>, <KEY:RightRudder> 和 <KEY:ZeroControls> 也可以调整速度和转向。
+你还可以直接从 命令 面板 <KEY:Orders> 设置速度、转向和高度。
+
+练习
+1) 改变高度、速度和转向。
+2) 进入导航模式 <KEY:NavigationMode> 然后 <KEY:LeftMouse> 在地图上设置导航点。

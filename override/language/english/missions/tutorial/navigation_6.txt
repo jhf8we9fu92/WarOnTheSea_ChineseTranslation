@@ -1,0 +1,18 @@
+﻿Image=
+Image=
+Image=
+<b>其他视角控制</b>
+跟踪视角
+按 <KEY:ChaseCam> 切换跟踪视角。如果向左或向右移动视角，则会立即取消跟踪视角。
+
+锁定目标视角
+将 USS 波特设为目标 (<KEY:TargetMode> 然后 <KEY:LeftMouse> 地图上波特号的图标).
+按 <KEY:FollowCam> 或辅助工具栏中的按钮锁定视角，使其始终注视所控制单位的目标。
+<i>如果向左或向右移动视角，视角锁定会立即取消。</i>
+
+固定相机
+按 <KEY:FreezeCamera> 强制视角停止移动，或开始跟随一个单位。
+
+准备好后，结束任务；
+1) 通过 <KEY:LeftMouse> 工具栏中菜单按钮或按 <KEY:Menu>。
+2) <KEY:LeftMouse> <b>退出</b> 按钮结束任务。

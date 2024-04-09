@@ -1,0 +1,1 @@
+﻿{"unitName":"A6M 零战","weaponDescriptions":["Guns|2x 20mm 九九式机炮","|2x 7.7mm 九七式机枪"],"payloadDisplayNames":["无"],"payloadIndexes":["-1"],"endurance":[1]}

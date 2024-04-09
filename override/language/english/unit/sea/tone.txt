@@ -1,0 +1,1 @@
+﻿{"unitName":"利根","weaponDescriptions":["九六式 25mm 高射机炮","九三式 13.2mm 机枪"],"namesInClass":["利根","筑摩"],"instancesInClass":["tone","chikuma"]}

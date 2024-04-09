@@ -1,0 +1,1 @@
+﻿{"unitName":"SB2C 地狱俯冲者","weaponDescriptions":["Guns|4x 机枪","|","Payloads|bomb_us_2000lb","|bomb_us_1600lb_ap","|bomb_us_1000lb_ap","|bomb_us_1000lb","|depthbomb_mark17"],"payloadDisplayNames":["1x 2000lb 高爆炸弹","1x 1600lb 穿甲炸弹","1x 1000lb 穿甲炸弹 Bomb","1x 1000lb 高爆炸弹","4x 深水炸弹","None"],"payloadIndexes":["0","1","2","3","4","5"],"endurance":[0.55,0.67,0.8,0.8,0.74,1.0]}

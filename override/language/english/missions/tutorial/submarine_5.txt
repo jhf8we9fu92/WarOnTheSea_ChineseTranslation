@@ -1,0 +1,14 @@
+﻿Image=
+Image=
+Image=
+<b>反潜战斗</b>
+控制 USS 波特号（波特级驱逐舰）。
+HINT: <KEY:LeftMouse> 这艘船的在地图上的图标，或 <KEY:LeftMouse> 在标签中名称旁边的箭头。
+
+按 <KEY:ActiveSonarOnOff> 或主工具栏中的 <b>主动声纳</b> 按钮，打开主动声纳并开始搜索敌方潜艇。
+
+一旦检测到，将敌方潜艇设为目标并按 <KEY:AttackTarget> 或 <b>命令面板</b> 中的 <b>攻击</b> 按钮开始深水炸弹攻击。
+
+<i>如果需要，按 <KEY:SwitchUnderwater> 或使用辅助工具栏上的 <b>切换水下视角</b> 按钮从水下观察攻击。</i>
+
+大多数船只（和潜艇）自身的正后方是声纳无法听到的盲区。

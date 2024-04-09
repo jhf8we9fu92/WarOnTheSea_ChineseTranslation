@@ -1,0 +1,1 @@
+﻿{"unitName":"D3A 九九舰爆","weaponDescriptions":["Guns|3x 7.7mm 九七式机枪","|","Payloads|bomb_ij_250kg_ap","|bomb_ij_250kg","|bomb_ij_60kg"],"payloadDisplayNames":["1x 250kg 穿甲, 2x 60kg 高爆炸弹","1x 250kg 高爆, 2x 60kg 高爆炸弹","无"],"payloadIndexes":["0","1","2"],"endurance":[0.67,0.67,1]}

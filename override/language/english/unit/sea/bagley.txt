@@ -1,0 +1,1 @@
+﻿{"unitName":"巴格莱","weaponDescriptions":["40mm L/60 博福斯","20mm L/70 厄利孔"],"namesInClass":["巴格莱","布卢","赫姆","马格福德","拉尔夫·塔尔伯特","亨利","帕特森","贾维斯"],"instancesInClass":["bagley","blue","helm","mugford","ralph talbot","henley","patterson","jarvis"]}

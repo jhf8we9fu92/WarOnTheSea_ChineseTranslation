@@ -1,0 +1,1 @@
+﻿{"unitName":"F4F 野猫","weaponDescriptions":["Guns|6x 12.7mm M2机枪"],"payloadDisplayNames":["无"],"payloadIndexes":["-1"],"endurance":[1]}

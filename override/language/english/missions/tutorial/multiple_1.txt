@@ -1,0 +1,19 @@
+﻿Image={"path":"interface/tutorial/multipleHighlighted.png","pos":{"x":226.0,"y":21.0}}
+Image=
+Image=
+<b>改变舰队阵型</b>
+3艘驱逐舰波特号、克拉克号和莫菲特号以500米的间距单横队排列。
+<i>如果需要，请记住地图使用操作：
+<KEY:MouseWheel> 或 <KEY:ZoomIn> 和 <KEY:ZoomOut> 缩放地图， <KEY:LeftMouse> 根据需要拖动平移地图。
+使用 <KEY:LockMap> 将单位锁定在地图中央。拖动地图将取消锁定。</i>
+
+<KEY:LeftMouse> 波特号铭牌中的箭头图标以控制波特号。
+<KEY:LeftMouse> 铭牌列表中克拉克号和莫菲特号的船名（不是箭头！）以选择它们。
+
+<i>Porter 地图图标应为黄色（所控制），克拉克号和莫菲特号为绿色（已选）。</i>
+SHIFT + <KEY:LeftMouse> 并在地图上拖动一个框以选择克拉克号和莫菲特号。
+打开命令面板 (<KEY:Orders>) 并 <KEY:LeftMouse> <b>组成编队</b> 按钮根据下拉菜单和滑块设置，3 艘驱逐舰立即以 500 米的间距排列成 单纵队 阵型，并分配了新的小队颜色。
+
+尝试使用下拉菜单和滑块来尝试不同的阵型和间距设置。
+完成后，以波特号作为领舰，将船只以 500 码的间距编入 单横队。
+提示：在地图上 <KEY:LeftMouse> Porter 的图标，再从铭牌列表 <KEY:LeftMouse> 克拉克号和莫菲特号的船名，将下拉菜单设置为 单横队，滑块设置为 500，然后 <KEY:LeftMouse> <b>组成编队</b> 按钮。

@@ -1,0 +1,1 @@
+﻿{"unitName":"高雄","weaponDescriptions":["九六式 25mm 高射机炮","九三式 13.2mm 机枪"],"namesInClass":["高雄","爱宕","摩耶","鸟海"],"instancesInClass":["takao","atago","maya","chokai"]}

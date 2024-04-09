@@ -1,0 +1,21 @@
+﻿Image={"path":"interface/tutorial/targetInfo.png","pos":{"x":212.0,"y":52.0}}
+Image=
+Image=
+<b>火炮基础</b>
+向北平移视角以查看目标船（屏幕顶部中心方位指示器上的 0）。
+使用望远镜 <KEY:Binoculars> 并放大 (<KEY:MouseWheel> 或 <KEY:ZoomIn>) 观察目标船。
+
+1) 按 <KEY:TargetMode> 进入目标模式（注意鼠标指针的变化）。
+2) 在目标模式下 <KEY:LeftMouse> 北边的船将其设置为你的目标。
+（目标信息出现在主工具栏上方）。
+3) 按 <KEY:Binoculars> 离开望远镜视角。
+4) 通过 <KEY:LeftMouse> 工具栏中主炮按钮或按 <KEY:Weap0> 打开主炮面板。
+5) 按 <b>开火</b> 开始向目标舰艇开火。
+
+<i>注意：没有处于目标模式时 <KEY:LeftMouse> 一艘船会将视角移动到该船。如果发生这种情况，只需要 <KEY:LeftMouse> 再次点击波特号。
+<KEY:LeftMouse> 地图图标与 <KEY:LeftMouse> 3D 视角中船只效果完全相同。
+请记住：当前受你控制的舰船显示在主工具栏上方。</i>
+
+尝试使用 <b>停火</b>（火炮返回静止位置）、<b>保持</b>（火炮继续瞄准，但停止射击）和 <b>开火</b> 按钮。
+按 <b>保持</b> 将所有火炮指向目标，等待几秒钟，然后按 <b>开火</b> 一次射击所有火炮（齐射模式）。
+准备好后，点击下一个箭头继续。

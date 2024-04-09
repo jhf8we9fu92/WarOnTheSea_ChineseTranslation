@@ -1,0 +1,1 @@
+﻿{"unitName":"C3型","weaponDescriptions":["20mm L/70 厄利孔"]}

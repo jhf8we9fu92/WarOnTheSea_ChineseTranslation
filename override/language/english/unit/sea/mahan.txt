@@ -1,0 +1,1 @@
+﻿{"unitName":"马汉","weaponDescriptions":["40mm L/60 博福斯","20mm L/70 厄利"],"namesInClass":["马汉","卡明斯","德雷顿","拉姆森","弗拉塞","利德","凯斯","科宁厄姆","卡辛","肖","塔克","唐斯","库欣","帕金斯","史密斯","普雷斯顿","邓拉普","范宁"],"instancesInClass":["mahan","cummings","drayton","lamson","flusser","reid","case","conyngham","cassin","shaw","tucker","downes","cushing","perkins","smith","preston","dunlap","fanning"]}

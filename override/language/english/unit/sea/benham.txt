@@ -1,0 +1,1 @@
+﻿{"unitName":"贝纳姆","weaponDescriptions":["40mm L/60 博福斯","20mm L/70 厄利孔"],"namesInClass":["贝纳姆","埃莱特","朗","梅兰特","特里普","莱因德","罗文","斯塔克","斯特雷特","威尔逊"],"instancesInClass":["benham","ellet","lang","mayrant","trippe","rhind","rowan","stack","sterett","wilson"]}

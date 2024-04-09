@@ -1,0 +1,19 @@
+﻿Image=
+Image=
+Image=
+<b>选择单位</b>
+有多种方法可以切换所控制的单位：
+1) <KEY:LeftMouse> 己方单位地图上的图标。
+2) <KEY:LeftMouse> 在 3D 世界中的己方单位。
+3) <KEY:LeftMouse> 标签列表中该单位的箭头。
+4) <KEY:LeftMouse> 日志消息的箭头。
+
+有多种方法可以选择多个的单位来发出命令：
+1) SHIFT + <KEY:LeftMouse> 并拖动来选择地图上的单位。
+2) <KEY:LeftMouse> 铭牌列表下的全选按钮（全选/全不选）。
+3) <KEY:LeftMouse> 铭牌中的名称以切换选择。
+4) <KEY:LeftMouse> 编队颜色标签选择该队内的所有单位。
+5) 按 <KEY:SelectMode> 进入选择模式并 <KEY:LeftMouse> 地图图标切换选择。再按 <KEY:SelectMode> 或按 <KEY:Cancel> 退出选择模式。
+6) 按 <KEY:SelectMode> 进入选择模式并 <KEY:LeftMouse> 3D 世界中的单位来切换选择。再按 <KEY:SelectMode> 或按 <KEY:Cancel> 退出选择模式。
+
+<i>所控制单位地图图标为黄色。选定的单位地图图标为绿色。其他单位是白色的。红色是当前单位的目标。</i>

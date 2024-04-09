@@ -1,0 +1,1 @@
+﻿{"unitName":"南达科他","weaponDescriptions":["40mm L/60 博福斯","20mm L/70 厄利孔"],"namesInClass":["南达科他","印第安纳","马萨诸塞","阿拉巴马"],"instancesInClass":["south dakota","indiana","massachusetts","alabama"]}

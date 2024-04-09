@@ -1,0 +1,1 @@
+﻿{"unitName":"A6M 零战(神风)","weaponDescriptions":["Guns|2x 20mm 九九式机炮","|2x 7.7mm 九七式机枪","|","Payloads|bomb_ij_250kg"],"payloadDisplayNames":["神风"],"payloadIndexes":["0"],"endurance":[0.67]}

@@ -1,0 +1,1 @@
+﻿{"unitName":"珀斯","weaponDescriptions":["40mm L/60 博福斯s","20mm L/70 厄利孔"],"namesInClass":["霍巴特","珀斯","悉尼"],"instancesInClass":["hobart","perth","sydney"]}

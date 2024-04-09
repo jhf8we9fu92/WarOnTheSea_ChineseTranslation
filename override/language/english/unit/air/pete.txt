@@ -1,0 +1,1 @@
+﻿{"unitName":"F1M 零式水观","weaponDescriptions":["Guns|1x 7.7mm 九二式机枪"],"payloadDisplayNames":["无"],"payloadIndexes":["-1"],"endurance":[1]}

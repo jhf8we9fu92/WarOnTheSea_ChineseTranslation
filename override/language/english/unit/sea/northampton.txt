@@ -1,0 +1,1 @@
+﻿{"unitName":"北安普顿","weaponDescriptions":["40mm L/60 博福斯","20mm L/70 厄利孔"],"namesInClass":["北安普顿","切斯特","路易斯维尔","芝加哥","休斯顿","奥古斯"],"instancesInClass":["northampton","chester","louisville","chicago","houston","augusta"]}

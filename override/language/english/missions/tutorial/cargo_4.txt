@@ -1,0 +1,21 @@
+﻿Image=
+Image=
+Image=
+<b>升级港口和机场</b>
+CONSTRUCTION 舰队正在等待并且已经装载了工程器械和燃料资源。
+通过 <KEY:LeftMouse> 舰队图标选择 CONSTRUCTION 或使用工具栏中的下一个海/空单位 (<KEY:NextMobile>) 按钮循环到这支舰队。
+
+点击 <b>航线</b> 制定前往 RENNELL ISLAND 的路线，压缩时间航向此处并卸载货物。
+<i>如果需要，请参阅本教程的第 3 页以获取分步指南。</i>
+
+一旦 CONSTRUCTION 在 RENNELL ISLAND 卸下所有货物；
+<KEY:LeftMouse> RENNELL ISLAND 图标打开位置面板或使用下一个地区 (<KEY:NextLocation>) 按钮循环到它。
+
+升级港口 & 机场
+花费港口或机场图标下列出的资源来升级该设施。
+现在有足够的补给、工程器械和燃料，可以将这里的港口和机场都升级到 1 级。
+<KEY:LeftMouse> 港口图标和机场图标将它们都升级到等级1。
+
+升级它们提供了额外的舰船管理选项（港口）和飞机（机场）。
+此外，更高级别的设施可以更好地探测附近的敌军，并且更难被敌人攻占。
+更多信息可在战役总览 (<KEY:CampSummary>) 的规则下找到。

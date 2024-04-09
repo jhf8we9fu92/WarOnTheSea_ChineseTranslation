@@ -1,0 +1,5 @@
+﻿Image={"path":"interface/tutorial/rosterSelect.png","pos":{"x":0.0,"y":-40.0}}
+Image=
+Image=
+<b>铭牌选择</b>
+请注意，可以通过 SHIFT+<KEY:LeftMouse>铭牌标签选择铭牌列表中的其他单位。这将选择单击的单位和当前玩家控制的单位之间的所有单位。同样，单击选定的单位会取消选择这些相关单位。

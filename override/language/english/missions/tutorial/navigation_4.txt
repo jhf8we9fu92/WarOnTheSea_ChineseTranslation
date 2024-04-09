@@ -1,0 +1,13 @@
+﻿Image={"path":"interface/tutorial/typeToggle.png","pos":{"x":0.0,"y":-127.0}}
+Image=
+Image=
+<b>在海 & 空单位之间切换</b>
+从 USS 企业起飞的一架野猫在这片海域，因此我们可以切换到它并练习控制飞机。
+
+缩小地图，直到你可以看到飞机和 USS 波特。确保 <b>不要</b> 处于目标模式 <KEY:TargetMode> 或导航模式 <KEY:NavigationMode>，然后 <KEY:LeftMouse> 飞机图标，视角会立即切换到飞机并直接控制它。你也可以直接对 3D 视角中的单位 <KEY:LeftMouse> ，效果相同。
+
+<i>请注意，<KEY:LeftMouse> 敌方单位会将视角移动到该单位，但保持原来的受控单位。</i>
+
+或者;
+1) 使用标签列表下方的 切换海/空 按钮在 空中单位 或 海上单位 列表之间切换。
+2) <KEY:LeftMouse> 标签上的小箭头直接对单位进行控制。

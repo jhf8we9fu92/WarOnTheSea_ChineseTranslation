@@ -1,0 +1,1 @@
+﻿{"unitName":"彭萨科拉","weaponDescriptions":["40mm L/60 博福斯","20mm L/70 厄利孔"],"namesInClass":["彭萨科拉","盐湖城"],"instancesInClass":["pensacola","salt lake city"]}

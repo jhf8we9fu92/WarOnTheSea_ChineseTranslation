@@ -1,0 +1,18 @@
+﻿Image=
+Image=
+Image=
+<b>地图和导航点</b>
+按 <KEY:MapSize> 打开/关闭小地图。
+按 <KEY:Map> 打开/关闭全屏地图。
+当鼠标在地图上时，使用 <KEY:MouseWheel> 或 <KEY:ZoomIn> 和 <KEY:ZoomOut> 进行缩放。
+<KEY:LeftMouse> 地图上的任意位置并根据需要拖动以平移视图。	
+按 <KEY:LockMap> 锁定单位在地图中心。如果拖动地图，将取消锁定。
+
+放置导航点
+熟悉地图后，按 <KEY:NavigationMode> 或辅助工具栏（右下角）上的按钮进入导航模式。注意光标变为舵轮。<KEY:LeftMouse> 在地图上的任意位置放置一个或多个导航点，所控制单位便立即转向并跟随导航点（航线显示为线条）。
+再次按 <KEY:NavigationMode> 或 <KEY:Cancel> 退出导航模式。
+
+按 <KEY:Orders> 打开 命令 面板并注意受控单元正 "跟随导航点移动".
+左/右转向将立即取消任何绘制的路线或脱离编队。
+
+<i>任何转向输入都会取消绘制的路线或脱离编队。</i>

@@ -1,0 +1,1 @@
+﻿{"unitName":"F6F 地狱猫","weaponDescriptions":["Guns|6x 12.7mm M2机枪"],"payloadDisplayNames":["无"],"payloadIndexes":["-1"],"endurance":[1]}
