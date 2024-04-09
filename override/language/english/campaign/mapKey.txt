@@ -1,4 +1,4 @@
-﻿<b><size=18>图标颜色</size></b>\n\n己方\n\n敌方\n\n中立\n\n选中<b>
-<size=18>舰船与飞机</size></b>\n\n潜艇\n\n护航舰\n\n运输船 / 运输船团\n\n巡洋舰\n\n战列舰\n\n舰队航母\n\n侦察机\n\n战斗机\n\n俯冲轰炸机\n\n鱼雷轰炸机\n\n中型轰炸机\n\n重型轰炸机
+﻿<b><size=18>图标颜色</size></b>\n\n己方\n\n敌方\n\n中立\n\n选中
+<b><size=18>舰船与飞机</size></b>\n\n潜艇\n\n护航舰\n\n运输船 / 运输船团\n\n巡洋舰\n\n战列舰\n\n舰队航母\n\n侦察机\n\n战斗机\n\n俯冲轰炸机\n\n鱼雷轰炸机\n\n中型轰炸机\n\n重型轰炸机
 <b><size=18>地点</size></b>\n\n港口与机场\n\n母港
 <b><size=18>天气</size></b>\n\n云图:\n零散云\n\n\n\n\n破碎云\n\n\n\n\n阴\n\n\n\n\n\n雨\n雪\n\n\n\n\n暴风\n暴风雪\n\n                             数字显示海况与风速
